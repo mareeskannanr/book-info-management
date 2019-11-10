@@ -1,0 +1,28 @@
+{
+  "name": "book-info-management",
+  "version": "1.0.0",
+  "description": "Simple CURD Application using Node.Js, MongoDB, Swagger",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mareeskannanr/book-info-management.git"
+  },
+  "keywords": [
+    "Book Information Management"
+  ],
+  "author": "mareeskannan1990@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mareeskannanr/book-info-management/issues"
+  },
+  "homepage": "https://github.com/mareeskannanr/book-info-management#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.9",
+    "nodemon": "^1.19.4",
+    "winston": "^3.2.1"
+  }
+}
